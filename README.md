@@ -8,7 +8,7 @@ Here is my little world, I have archived some of my previous projects and some t
 
 By the way, I've attached my Linkedin link www.linkedin.com/in/jiazhen-jing-9b4616267, so please come hang out with me, I'm super fun!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiazhen)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiazhen)](https://github.com/Jiazhen-Jing/github-readme-stats)
 <!---
 Jiazhen-Jing/Jiazhen-Jing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
