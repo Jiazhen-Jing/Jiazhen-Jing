@@ -1,4 +1,6 @@
-Hi sis and bro, I'm Jiazhen from China. I have just finished my studies in Statistics at Uppsala university this June in 2024.
+✨Hi sis and bro✨
+
+I'm Jiazhen from China. I have just finished my studies in Statistics at Uppsala university this June in 2024.
 
 Let's call myself a Statistician for now, an Open to work hobo. 
 
